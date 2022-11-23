@@ -1,0 +1,42 @@
+* {
+    background-color: black;
+    text-align: center;
+}
+
+.title{
+    font-family: Verdana,sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+a {
+    color:aquamarine;
+    font-size: 16px;
+}
+
+.travel span{
+    font-family: Verdana, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.travel p{
+    font-family: Verdana, sans-serif;
+    color: gray;
+    font-size: 21px;
+}
+
+.phone span{
+    font-family: Verdana, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+img {
+    width:fit-content;
+    height: fit-content;
+    align-items: center;    
+}
