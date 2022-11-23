@@ -35,8 +35,7 @@ a {
     font-size: 42px;
     color: white;
 }
-img {
-    width:fit-content;
-    height: fit-content;
-    align-items: center;    
+
+footer{
+    color: white;
 }
